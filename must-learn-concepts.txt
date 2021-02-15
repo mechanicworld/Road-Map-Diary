@@ -1,0 +1,21 @@
+	- Async-await
+	- ORM
+	- OLAP
+	- Restful API /SOAP X
+	- SQL 
+	- NoSQL
+	- Data Structures
+	- Algorithms
+	- Multithread
+	- DDD
+	- B2B
+	- B2D
+	- Middleware
+	- API
+	- Closures in Javascript
+	- Immediately Invoked Function Expressions
+	- Git Flow - Actions
+	- Typescript
+	- React.js 
+	- GraphQL
+	- Proof of Concept

@@ -1,1 +1,2 @@
-- 30 Day Javascript Challenges
+- 30 Day Javascript Challenges - On process
+- Babishko Asuman - To / Do

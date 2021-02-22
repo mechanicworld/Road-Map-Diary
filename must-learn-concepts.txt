@@ -2,16 +2,14 @@
 	- ORM
 	- OLAP
 	- Restful API /SOAP X
+	- Multithread
+	- DDD
+	- Middleware
+	- API
 	- SQL 
 	- NoSQL
 	- Data Structures
-	- Algorithms
-	- Multithread
-	- DDD
-	- B2B
-	- B2D
-	- Middleware
-	- API
+	- Algorithms	
 	- Closures in Javascript
 	- Immediately Invoked Function Expressions
 	- Git Flow - Actions

@@ -1,2 +1,4 @@
 - 30 Day Javascript Challenges - On process
 - Babishko Asuman - To / Do
+- Study Tracker
+- Exercise Tracker

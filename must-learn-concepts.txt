@@ -17,3 +17,4 @@
 	- React.js 
 	- GraphQL
 	- Proof of Concept
+	- SOLID principles
